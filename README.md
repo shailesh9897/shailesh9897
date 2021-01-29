@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
 <h3 align="center">Java Developer|Spring|Hibernate</h3>
 
-- 🔭 I’m currently working on my **Data Structures And Algorithms;**
+- 🔭 I’m currently working on my **Data Structures And Algorithms**
 
 - 🌱 I’m currently learning **Spring Model View Controller with Hibernate;**
 
