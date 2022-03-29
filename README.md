@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Java,js,core spring,hibernate;**
 
-- ⚡ Believe Me **I live in Interdimensions;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
